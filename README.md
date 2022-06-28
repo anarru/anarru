@@ -2,7 +2,7 @@
 - 👀 Sou professora do Colégio Estadual Victor Bussmann
 - Estou aprendendo a programar no Scratch, Javascript e agora aqui no Gif.
 - 🌱 Leciono nas disciplinas de português, pensamento computacional e EDUTECH ensino fundamental.
-- 💞️ Estou adorando o que esyou aprendendo e sempre peço ajuda,pois nunca foi minha área,mas como gosto de tecnologia me propuz a aprender.
+- 💞️ Estou adorando o que estou aprendendo!Sempre peço ajuda,pois nunca foi minha área,mas como gosto de tecnologia me propuz a aprender.
 - 📫 
 
 <!---
