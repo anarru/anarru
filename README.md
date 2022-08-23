@@ -14,3 +14,4 @@ Redes sociais:
 <a href="https://instagram.com/silvanaarruda771" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/anarru/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
