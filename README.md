@@ -1,4 +1,4 @@
-- 👋 Olá! Sou a professora Silvana Arruda
+- 👋 Olá! Sou a professora <STRONG>Silvana Arruda<STRONG>
 - 👀 Sou professora do Colégio Estadual Victor Bussmann.
 - 👉 Meu email é silvana.arruda@escola.pr.gov.br
 - 🙋‍♀️ Leciono nas disciplinas de Português, Pensamento Computacional e EDUTECH ensino fundamental.
